@@ -2,7 +2,7 @@
 
 ![TailwindCSS Logo](tailwind-css-logo-vector.png)
 
-Welcome to the LOVE FOR TAILWIND repository! This collection is designed to provide you with an extensive assortment of amazing templates and components that leverage the power and flexibility of TailwindCSS.
+Welcome to the LOVE FOR TAILWIND repository! This collection is designed to provide you with an extensive assortment of amazing web links for templates and components that leverage the power and flexibility of TailwindCSS.
 
 ## Introduction
 
@@ -30,10 +30,9 @@ git clone https://github.com/DevHumbleChris/love-for-tailwind.git
 cd love-for-tailwind
 ```
 
-1. Explore the various templates and components available in the repository.
-2. Choose the template or component that suits your needs and copy the necessary code.
-3. Paste the code into your project, and customize it to fit your desired design.
-4. Enjoy the power of TailwindCSS and create amazing web interfaces with ease!
+1. Explore the various folders available in the repository.
+2. Choose the folder that suits your needs and copy the necessary code.
+3. Enjoy the power of TailwindCSS and create amazing web interfaces with ease!
 
 ## Contributing
 
