@@ -1,6 +1,6 @@
 # LOVE FOR TAILWIND
 
-![TailwindCSS Logo]([https://tailwindcss.com/_next/static/media/twitter-square.daf4aa7e8582610b9b4270c600d4542a.jpg](https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png))
+![TailwindCSS Logo](tailwind-css-logo-vector.png)
 
 Welcome to the LOVE FOR TAILWIND repository! This collection is designed to provide you with an extensive assortment of amazing templates and components that leverage the power and flexibility of TailwindCSS.
 
@@ -21,13 +21,13 @@ TailwindCSS is a highly customizable CSS framework that focuses on utility class
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/awesome-tailwindcss-templates.git
+git clone https://github.com/DevHumbleChris/love-for-tailwind.git
 ```
 
 ## Navigate to the cloned directory
 
 ```bash
-cd awesome-tailwindcss-templates
+cd love-for-tailwind
 ```
 
 1. Explore the various templates and components available in the repository.
