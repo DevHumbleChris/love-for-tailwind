@@ -7,3 +7,4 @@ Welcome to the LOVE FOR TAILWIND - ANGULAR CHAPTER! This collection is designed 
 ## Resources
 
 - [TailwindAngular](https://tailwindangular.com/)
+- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)

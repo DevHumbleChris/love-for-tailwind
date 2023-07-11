@@ -7,3 +7,5 @@ Welcome to the LOVE FOR TAILWIND - ALPINE CHAPTER! This collection is designed t
 ## Resources
 
 - [An Alpine & Tailwind UI Library](https://devdojo.com/pines)
+- [Kutty](https://kutty.netlify.app/)
+- [Sailboat UI](https://sailboatui.com/)
