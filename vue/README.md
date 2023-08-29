@@ -10,3 +10,8 @@ Welcome to the LOVE FOR TAILWIND - VUE CHAPTER! This collection is designed to p
 - [Flowbite Vue 3](https://flowbite-vue.com/)
 - [Headless UI](https://headlessui.com/)
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)
+- [Windi UI](https://ui-windi.netlify.app/)
+- [Nuxt UI Vue](https://github.com/selemondev/nuxt-ui-vue)
+- [Morpheme UI](https://gitsindonesia.github.io/ui-component/)
+- [Vanilla Components](https://vanilla-components.com/)
+- [Indie Layer](https://indielayer.com/)
